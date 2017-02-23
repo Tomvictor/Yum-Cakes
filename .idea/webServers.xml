@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="38fd7f0c-6271-433a-931b-0b8d122f3b35" name="Pro-server" url="http://yumcakes.co.in">
+        <fileTransfer host="technorip.com" port="22" privateKey="$USER_HOME$/Documents/server-folder/ProductionServer" rootFolder="/home/technorip/www/yumcakes" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
